@@ -18,4 +18,4 @@ The design is minimalistic, with a gradient background and a split layout for da
 The script uses the `Intl.DateTimeFormat` API to format and display date information dynamically.  
 The layout is styled with CSS variables for easy theme adjustments.
 
-## File Structure
+
